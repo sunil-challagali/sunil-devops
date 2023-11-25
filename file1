@@ -1,0 +1,9 @@
+this is my first line in file1
+git status
+
+git add README.md
+git branch -M main
+
+git remote add origin https://github.com/sunil-challagali/sunil-devops.git
+
+git push -u origin main
